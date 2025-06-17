@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafae\\OneDrive\\Pictures\\Prova_A1\\Prova_A1\\api_avaliacao\\api_avaliacao.csproj": {}
+    "C:\\Users\\Rafae\\Downloads\\PRova_a1\\api_avaliacao\\api_avaliacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafae\\OneDrive\\Pictures\\Prova_A1\\Prova_A1\\api_avaliacao\\api_avaliacao.csproj": {
+    "C:\\Users\\Rafae\\Downloads\\PRova_a1\\api_avaliacao\\api_avaliacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafae\\OneDrive\\Pictures\\Prova_A1\\Prova_A1\\api_avaliacao\\api_avaliacao.csproj",
+        "projectUniqueName": "C:\\Users\\Rafae\\Downloads\\PRova_a1\\api_avaliacao\\api_avaliacao.csproj",
         "projectName": "api_avaliacao",
-        "projectPath": "C:\\Users\\Rafae\\OneDrive\\Pictures\\Prova_A1\\Prova_A1\\api_avaliacao\\api_avaliacao.csproj",
+        "projectPath": "C:\\Users\\Rafae\\Downloads\\PRova_a1\\api_avaliacao\\api_avaliacao.csproj",
         "packagesPath": "C:\\Users\\Rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafae\\OneDrive\\Pictures\\Prova_A1\\Prova_A1\\api_avaliacao\\obj\\",
+        "outputPath": "C:\\Users\\Rafae\\Downloads\\PRova_a1\\api_avaliacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"

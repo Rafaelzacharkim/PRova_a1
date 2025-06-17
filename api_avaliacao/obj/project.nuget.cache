@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DEvd7RfHKOc=",
+  "dgSpecHash": "90eHagB5c44=",
   "success": false,
-  "projectFilePath": "C:\\Users\\Rafae\\OneDrive\\Pictures\\Prova_A1\\Prova_A1\\api_avaliacao\\api_avaliacao.csproj",
+  "projectFilePath": "C:\\Users\\Rafae\\Downloads\\PRova_a1\\api_avaliacao\\api_avaliacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafae\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Rafae\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.17\\microsoft.aspnetcore.authentication.jwtbearer.8.0.17.nupkg.sha512",
