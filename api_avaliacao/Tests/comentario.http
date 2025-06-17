@@ -1,0 +1,17 @@
+@url_base = http://localhost:5003/api/comentarios
+
+### Cadastrar comentario
+POST {{url_base}}/cadastrar
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtIiwiZXhwIjoxNzUwMTA5MjQxfQ.I_7IvZFE6OYaMHgIFQtB552B5KznJjhoph5Jp4T_pwQ
+Content-Type: application/json
+
+{
+    "Texto" : "",
+    "ItemId" : "1"
+}
+###
+GET {{url_base}}/listar/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtIiwiZXhwIjoxNzUwMTA5MjQxfQ.I_7IvZFE6OYaMHgIFQtB552B5KznJjhoph5Jp4T_pwQ
+###
+DELETE {{url_base}}/1/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtIiwiZXhwIjoxNzUwMTA5MjQxfQ.I_7IvZFE6OYaMHgIFQtB552B5KznJjhoph5Jp4T_pwQ
